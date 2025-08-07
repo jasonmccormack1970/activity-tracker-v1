@@ -1,0 +1,6 @@
+{
+  "name": "Activity Tracker v1",
+  "description": "A desktop-style application to create, manage, and store a list of activities, persisted locally in your browser.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
