@@ -39,8 +39,8 @@ You can use any local web server you prefer. Here are two simple options:
 
     ```bash
     # Example of cloning with Git
-    git clone <repository_url>
-    cd <project_directory>
+    git clone https://github.com/jasonmccormack1970/activity-tracker-v1.git
+    cd activity-tracker-v1
     ```
 
 2.  **Start the Local Server**
