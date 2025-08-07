@@ -2,6 +2,9 @@
 
 A simple application to track your activities and the time spent on them.
 
+<img width="736" height="608" alt="image" src="https://github.com/user-attachments/assets/d7f8df4e-5afe-464f-84a0-79f2fc499887" />
+
+
 ## Description
 Activity Tracker is a client-side web application built with React and TypeScript. It allows you to create, manage, and time your daily tasks and activities. All your data is stored securely in your browser's local storage, ensuring privacy and offline access.
 
